@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,20 +14,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923181718309'] //ur owner number
-global.ownername = "ZIDDI SHAHZADA" //ur owner name
+global.owner = ['94764497078'] //ur owner number
+global.ownername = "Sandaru Nethsara" //ur owner name
 global.ytname = "YT: Sandaru Yt" //ur yt chanel name
 global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
-global.location = "PAKISTANI ISLAMABAD, Colombo, Kiribathgoda" //ur location
+global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "923181718309" //ur number
-global.premium = ['923181718309'] //ur premium number
-global.botname = 'ZIDDI //ur bot name
+global.ownernomer = "94764497078" //ur number
+global.premium = ['94764497078'] //ur premium number
+global.botname = 'Xcoco' //ur bot name
 global.themeemoji = "♻️" //ur theme emoji
-global.packname = "Sticker By ZIDDI" //ur sticker watermark packname
-global.author = "ZIDDI" //ur sticker watermark author
-global.wm = "ZIDDI BOT INC" //ur watermark
+global.packname = "Sticker By Xcoco" //ur sticker watermark packname
+global.author = "Xcoco" //ur sticker watermark author
+global.wm = "XCOCO BOT INC" //ur watermark
 
 // Other
 global.sessionName = 'session'
